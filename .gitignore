@@ -4,3 +4,11 @@ test_stack_tsan
 test_queue_tsan
 bench/bench
 bench_bin
+small_pstack
+tsan_pstack
+test_pstack
+small_stack
+small_queue
+tsan_stack
+tsan_queue
+bench2
